@@ -46,4 +46,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrisbasra&" alt="harrisbasra" /></p>
 
-![MyProfile](https://github.com/harrisbasra/harrisbasra/settings)
+![MyProfile](https://drive.google.com/file/d/1dNYgyZEBYbpmSrTDUMTlKIprCJ_MPW76/view?usp=sharing)
