@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Android Native & Flutter**
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m interested in learning **Game Development**
 
-- 👯 I’m looking to collaborate on **Java & React Development**
+- 👯 I’m looking to collaborate on **Java & C++ Development**
 
 - 🤝 I’m looking for help with **Web Development**
 
@@ -14,7 +14,7 @@
 
 - 📝 I regularly study articles on [National & International Politics](National & International Politics)
 
-- 💬 Ask me about **Android Applications, Desktop GUI**
+- 💬 Ask me about **Android Applications, Desktop GUI, Flutter Development**
 
 - 📫 How to reach me **harrisbasra@gmail.com**
 
