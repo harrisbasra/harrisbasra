@@ -51,5 +51,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harrisbasra&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harrisbasra&show_icons=true&locale=en" alt="harrisbasra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrisbasra&" alt="harrisbasra" /></p>
+![MyProfile](https://drive.google.com/file/d/1dNYgyZEBYbpmSrTDUMTlKIprCJ_MPW76/view?usp=sharing)
 ---
 
