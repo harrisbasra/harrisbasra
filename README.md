@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I am student @ Fast Nuces <'3**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harrisbasra&label=Profile%20views&color=0e75b6&style=flat" alt="harrisbasra" /> </p>
+[![](https://visitcount.itsvg.in/api?id=harrisbasra&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,4 +52,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=harrisbasra&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harrisbasra&icon=0&color=0)](https://visitcount.itsvg.in)
+
