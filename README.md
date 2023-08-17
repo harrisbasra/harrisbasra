@@ -37,6 +37,8 @@
 
 <p align="left"> <a href="https://twitter.com/harris_basra" target="blank"><img src="https://img.shields.io/twitter/follow/harris_basra?logo=twitter&style=for-the-badge" alt="harris_basra" /></a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harrisbasra&show_icons=true&locale=en" alt="harrisbasra" /></p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harrisbasra&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harrisbasra&theme=omni&hide_border=false)<br/>
@@ -45,14 +47,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harrisbasra&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harrisbasra&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harrisbasra&show_icons=true&locale=en" alt="harrisbasra" /></p>
-
-![MyProfile](https://drive.google.com/file/d/1dNYgyZEBYbpmSrTDUMTlKIprCJ_MPW76/view?usp=sharing)
----
 
