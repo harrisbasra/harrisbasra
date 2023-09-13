@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harris_basra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harris_basra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harris khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harris khalid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harris-basra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harris khalid" height="30" width="40" /></a>
 <a href="https://instagram.com/harrisbasra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harrisbasra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harrisbasra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harrisbasra" height="30" width="40" /></a>
 </p>
@@ -38,7 +38,6 @@
 <p align="left"> <a href="https://twitter.com/harris_basra" target="blank"><img src="https://img.shields.io/twitter/follow/harris_basra?logo=twitter&style=for-the-badge" alt="harris_basra" /></a> </p>
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harrisbasra&show_icons=true&locale=en" alt="harrisbasra" /></p>
 
 ![](https://github-readme-stats.vercel.app/api?username=harrisbasra&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harrisbasra&theme=omni&hide_border=false)<br/>
