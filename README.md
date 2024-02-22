@@ -2,7 +2,7 @@
 <h3 align="center">A Crazy Developer from Lahore, PK</h3>
 
 
-- 🔭 I’m currently working on **Android Native & Flutter**
+- 🔭 I’m currently working on **Android/iOS Native & Flutter**
 
 - 🌱 I’m interested in learning **Game Development**
 
