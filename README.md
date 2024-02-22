@@ -6,21 +6,13 @@
 
 - 🌱 I’m interested in learning **Game Development**
 
-- 👯 I’m looking to collaborate on **Java & C++ Development**
-
-- 🤝 I’m looking for help with **Web Development**
-
 - 👨‍💻 All of my projects are available at [www.github.com/harrisbasra](www.github.com/harrisbasra)
 
-- 📝 I regularly study articles on [National & International Politics](National & International Politics)
-
-- 💬 Ask me about **Android Applications, Desktop GUI, Flutter Development**
+- 💬 Ask me about **Android/iOS Applications, Desktop GUI, Flutter Development**
 
 - 📫 How to reach me **harrisbasra@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/harris-basra/](https://www.linkedin.com/in/harris-basra/)
-
-- ⚡ Fun fact **I am student @ Fast Nuces <'3**
 
 [![](https://visitcount.itsvg.in/api?id=harrisbasra&icon=0&color=0)](https://visitcount.itsvg.in)
 
