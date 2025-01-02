@@ -30,6 +30,7 @@
 <p align="left"> <a href="https://twitter.com/harris_basra" target="blank"><img src="https://img.shields.io/twitter/follow/harris_basra?logo=twitter&style=for-the-badge" alt="harris_basra" /></a> </p>
 
 # 📊 GitHub Stats:
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 ![](https://github-readme-stats.vercel.app/api?username=harrisbasra&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harrisbasra&theme=omni&hide_border=false)<br/>
