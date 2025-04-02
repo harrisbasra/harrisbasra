@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/harrisbasra](www.github.com/harrisbasra)
 
-- 💬 Ask me about **Android/iOS Applications, Desktop GUI, Flutter Development**
+- 💬 Ask me about **Android/iOS Application Dev, Desktop GUI, Flutter Development**
 
 - 📫 How to reach me **harrisbasra@gmail.com**
 
