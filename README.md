@@ -53,21 +53,20 @@
 ---
 
 ## 📖 Beyond Code
-- ✍️ Fantasy author (passion-driven)  
-- 📚 *Rising Sun & A Flag*  
+- ✍️ English Literary Author  
+- 📚 *Rising Sun & A Flag* (Published 1 March 2026 : NJ, USA)
 - 🎧 Music, geopolitics, and history  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harrisbasra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrisbasra&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=harrisbasra&theme=omni&hide_border=false&include_all_commits=true&count_private=true)
+<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=harrisbasra&theme=omni&hide_border=false)
+<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisbasra&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+![](https://github-profile-trophy.vercel.app/?username=harrisbasra&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
