@@ -1,91 +1,93 @@
-<h1 align="center">Harrey Be 👨‍💻</h1>
+<h1 align="center">Hey 👋 I'm Harrey Be</h1>
 <h3 align="center">Software Engineer • AI Systems • Mobile & Full-Stack Developer</h3>
 
 <p align="center">
-  Building intelligent products across Mobile, Cloud, and Data ecosystems.
+  <i>Building intelligent, scalable systems across AI, Cloud, and Applications</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/harrisbasra"><img src="https://komarev.com/ghpvc/?username=harrisbasra&label=Profile%20Views&color=0e75b6&style=flat" /></a>
+  <img src="https://komarev.com/ghpvc/?username=harrisbasra&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## ⚡ Who I Am
-- Software Engineer working on **AI-driven applications, backend systems, and scalable architectures**
-- Strong experience across **Mobile (Android/iOS), Web, Desktop, and Cloud**
-- Currently building **AI backends, automation workflows, and analytics dashboards**
-- Focused on **system design, performance, and real-world product delivery**
+## 🧑‍💻 About Me
+- Engineer working across **AI systems, backend architectures, and mobile applications**
+- Strong exposure to **production-level systems & multi-stack environments**
+- Focused on **scalability, performance, and real-world product delivery**
+- Background spans **mobile, backend, cloud, and data analytics**
 
 ---
 
-## 🧠 Core Expertise
+## ⚙️ Tech Stack
 
-### 📱 Mobile Engineering
-`Android (Kotlin/Java)` • `iOS (Swift/SwiftUI)` • `Jetpack Compose`  
-`Flutter` • `React Native` • `Xamarin` • `Ionic`
+### 🧠 Backend & APIs
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express" />
+</p>
 
-### 🌐 Backend & Web
-`Node.js` • `Express.js` • `Python`  
-`React` • `JavaScript` • `MERN Stack`
+### 🤖 AI, Data & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=azure" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
-### ☁️ Cloud, AI & Data
-`Machine Learning (Python)` • `AI Integrations`  
-`Azure Functions` • `Cloud Architectures`  
-`Automation Workflows` • `Power BI Dashboards`
+### 📱 Mobile Development
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,swift,flutter,react" />
+</p>
+
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
 
 ---
 
-## 🚀 Featured Work
-> *(Tip: Replace these with your actual repos — this section matters a LOT)*
-
-- 🔹 **AI-Powered Mobile Applications**  
-  Intelligent mobile apps integrating backend AI pipelines  
-
-- 🔹 **Automation & Workflow Systems**  
-  Python-based automation + cloud integrations  
-
-- 🔹 **Data Analytics Dashboards**  
-  Power BI solutions for business insights & reporting  
+## 🚀 Work Highlights
+- 🔹 AI-powered applications integrating **intelligent backend systems with mobile clients**  
+- 🔹 Scalable APIs using **FastAPI, Django, and Node.js architectures**  
+- 🔹 Automation pipelines & workflows for **real-world business use cases**  
+- 🔹 Data dashboards & reporting systems using **Power BI**  
 
 ---
 
 ## 📖 Beyond Code
-- ✍️ Fantasy author (for passion, not profit)  
-- 📚 Published: **Rising Sun & A Flag**  
-- 🧠 Interests: History, geopolitics, and emerging technologies  
+- ✍️ Fantasy author (passion-driven)  
+- 📚 *Rising Sun & A Flag*  
+- 🎧 Music, geopolitics, and history  
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harrisbasra&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harrisbasra&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harrisbasra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrisbasra&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrisbasra&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/harris-basra"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://twitter.com/harris_basra"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://instagram.com/harrisbasra"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="mailto:harrisbasra@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-## 🧩 Current Direction
-- Scaling **AI-powered applications**
-- Exploring **advanced system design & distributed systems**
-- Preparing for **graduate studies in Artificial Intelligence**
+## 🎯 Current Focus
+- AI-powered backend systems  
+- Scalable API design & system architecture  
+- Data-driven applications & analytics platforms  
 
 ---
 
 <p align="center">
-  ⚡ <i>"Building systems that are not just functional — but intelligent."</i>
+  ⚡ <i>Engineering systems that think, scale, and deliver.</i>
 </p>
