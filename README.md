@@ -23,18 +23,24 @@
 
 ### 🧠 Backend & APIs
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express,flask,mongodb,mysql,postgres,sqlite,redis,docker,git,linux" />
 </p>
 
 ### 🤖 AI, Data & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=azure" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,azure" />
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/N8N-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
 ### 📱 Mobile Development
 <p>
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,swift,flutter,react" />
+<img src="https://img.shields.io/badge/SwiftUI-iOS-0A84FF?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-Android-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xamarin-CrossPlatform-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ionic-Hybrid-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
 </p>
 
 ### 🌐 Web Development
@@ -76,6 +82,7 @@
 <a href="https://twitter.com/harris_basra"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://instagram.com/harrisbasra"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="mailto:harrisbasra@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.leetcode.com/harrisbasra"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harrisbasra" height="30" width="40" /></a>
 </p>
 
 ---
